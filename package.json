@@ -1,0 +1,30 @@
+{
+  "name": "nist-web-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "babel-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-infatuation/nist-web-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-infatuation/nist-web-boilerplate/issues"
+  },
+  "homepage": "https://github.com/the-infatuation/nist-web-boilerplate#readme",
+  "proxy": "http://localhost:3000",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/node": "^7.8.4",
+    "@babel/preset-env": "^7.8.6",
+    "jasmine": "^3.5.0"
+  }
+}
