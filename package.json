@@ -20,7 +20,7 @@
   "homepage": "https://github.com/the-infatuation/nist-web-boilerplate#readme",
   "proxy": "http://localhost:3000",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
